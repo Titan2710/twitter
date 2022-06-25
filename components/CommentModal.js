@@ -109,12 +109,7 @@ export default function CommentModal() {
                       // onClick={() => filePickerRef.current.click()}
                     >
                       <PhotographIcon className="w-10 h-10 p-2 hoverEffect text-sky-500 hover:bg-sky-100" />
-                      {/* <input
-                        type="file"
-                        hidden
-                        ref={filePickerRef}
-                        onChange={addImageToPost}
-                      /> */}
+ 
                     </div>
                     <EmojiHappyIcon className="w-10 h-10 p-2 hoverEffect text-sky-500 hover:bg-sky-100" />
                   </div>
